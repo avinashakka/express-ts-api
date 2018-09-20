@@ -1,2 +1,2 @@
 # express-ts-api
-TypeScript based Express API server
+Basic NodeJS express server to use TypeScript compiler.
