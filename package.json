@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node server.js"
+    "start": "DEBUG=express:router node server.js"
   },
   "dependencies": {
     "biguint-format": "^1.0.0",
