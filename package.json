@@ -6,6 +6,7 @@
     "biguint-format": "^1.0.0",
     "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
     "core-js": "2.4.1",
     "express": "^4.15.4",
     "express-delay": "^0.2.0",
